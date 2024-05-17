@@ -1,0 +1,7 @@
+Django~=5.0.6
+djangorestframework~=3.15.1
+Pillow
+psycopg2
+django-cors-headers
+djangorestframework-simplejwt
+dj-rest-auth
